@@ -1,1 +1,1 @@
-
+The node_edge.csv file maps the reactants to products for the annotated elementary reactions. The Graph_database.csv file is constructed by running the DFT_to_Graph_Database/DFT_to_Graph_database.ipynb code and provides a comprehensive set of total energy data computed via DFT for all adsorption systems.
