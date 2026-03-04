@@ -27,4 +27,4 @@ Executing the deep_learning_class.ipynb code evaluates the training performance 
 
 
 # cite literature
-The manuscript titled "Photo-Electrocatalytic Chemical Pathways in Photo-Assisted Lithium-Sulfur Batteries via a Multiscale Graph-Based Machine Learning Framework" is currently under review.
+The manuscript titled "Photo-Electrocatalytic Chemical Pathways in Photo-Assisted Lithium-Sulfur Batteries via a Multiscale Graph-Based Machine Learning Framework" is currently under review in Journal of the American Chemical Society.
