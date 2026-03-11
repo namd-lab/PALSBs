@@ -1,1 +1,0 @@
-Executing the deep_learning_class.ipynb code evaluates the training performance for the three-class classification task. The model uses features derived from the MoS2@Li2S2, MoS2@Li2S3, and MoS2@LiS3 reaction pathways processed by a Bag-of-Words model as its input.
