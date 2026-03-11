@@ -1,1 +1,0 @@
-Executing the deep_learning_Regression.ipynb code evaluates the training performance of the regression model. In this model, reaction pathways are first converted into word vectors via a Bag-of-Words model as input, with the total uphill free energy change serving as the training target.
