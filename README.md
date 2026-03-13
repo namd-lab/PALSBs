@@ -1,3 +1,6 @@
+# Workflow
+<img width="912" height="515" alt="image" src="https://github.com/user-attachments/assets/c20d39ca-7e65-4c2c-be9f-fd73434e5b8c" />
+
 # Graph response network construction and transformer training code.
 This codebase includes the complete set of initial DFT calculations, graph reaction network construction code, and machine learning training code.
 
